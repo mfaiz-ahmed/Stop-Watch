@@ -4,7 +4,7 @@ box-sizing: border-box;}
 
 html{font-size: 62.5%;}
 
-.bg-color{background-image: linear-gradient(to right , #beb0f4 , #ffcaca );
+.bg-color{background-image: linear-gradient(to bottom right , #6f4518 , #8b5e34 ,#bc8a5f , #e7bc91 , #f3d5b5 , #ffedd8 );
 background-position: center;
 background-repeat: no-repeat;
 min-height: 100vh;}
@@ -39,4 +39,5 @@ margin-top: 50px;}
     transition: all 0.3s;
 }
 
-.btns:hover{background-color: #f89090;}
+.btns:hover{background-color: #6f4518;
+color: white;}
